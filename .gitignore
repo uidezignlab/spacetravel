@@ -1,3 +1,4 @@
 src/css/_mediaqueries.scss
+src/css/app.scss
 src/css/app.css.map
-src/.sass-cache
+src/css/.sass-cache
