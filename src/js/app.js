@@ -7,7 +7,7 @@ $(document).ready(function () {
     // });
 
     var options = {
-        strings: ["" ,"Travel", "Exploration", "Denomination", "Innovation"],
+        strings: ["" ,"Travel", "Exploration", "Domination", "Innovation"],
         typeSpeed: 100,
         backSpeed: 30,
         //backDelay: 700,
